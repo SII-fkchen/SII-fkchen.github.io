@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Fangke Chen"
-description              : "A Ph.D. candidate at Zhejiang University and Shanghai Innovation Institute"
+description              : "A Ph.D. candidate at Zhejiang University and Shanghai Innovation Institute."
 repository               : "SII-fkchen/SII-fkchen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -26,7 +26,7 @@ author:
   bio              : "A Ph.D. candidate at Zhejiang University and Shanghai Innovation Institute"
   location         : "Shanghai, China"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=qui6OCIAAAAJ&hl=en"
   email            : "fkchen@zju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/SII-fkchen"
+  github           : "SII-fkchen" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/414/5727" # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : "https://orcid.org/0009-0009-7388-420X" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
