@@ -28,55 +28,52 @@ My research interests include Time Series Analysis, Time Series Foundation Model
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Venue 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-Print</div><img src='images/medrcube.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Paper Title One: Placeholder for your first publication](https://github.com)
+[MedRCube: A Multidimensional Framework for Fine-Grained and In-Depth Evaluation of MLLMs in Medical Imaging](https://arxiv.org/abs/2604.13756)
 
-**Fangke Chen**, Co-author A, Co-author B
+Zhijie Bao<sup>*</sup>, **Fangke Chen**<sup>*</sup>, Licheng Bao, Chenhui Zhang, Wei Chen, Jiajie Peng, Zhongyu Wei
 
-*Journal / Conference Name, Year*
+*Pre-Print, 2026*
 
-[Github](https://github.com)
+[Github](https://github.com/F1mc/MedRCube); [Huggingface](https://huggingface.co/datasets/Flmc/MedRCube)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Venue 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-Print</div><img src='images/language.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Paper Title Two: Placeholder for your second publication](https://github.com)
+[Language-Agnostic Visual Embeddings for Cross-Script Handwriting Retrieval](https://arxiv.org/abs/2601.11248)
 
-**Fangke Chen**, Co-author A, Co-author B
+**Fangke Chen**, Tianhao Dong, Sirry Chen, Guobin Zhang, Yishu Zhang, Yining Chen
 
-*Journal / Conference Name, Year*
+*Pre-Print, 2026*
 
-[Github](https://github.com)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Venue 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/ambct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Paper Title Three: Placeholder for your third publication](https://github.com)
+[AMBCT: Adaptive multi-view Bayesian co-training for semi-supervised virtual metrology](https://www.sciencedirect.com/science/article/pii/S0957417425039296)
 
-**Fangke Chen**, Co-author A, Co-author B
+Jiangchen Wu, **Fangke Chen**, Pang Guo, Yuping Wang, Weiping Xie, Yining Chen, Dawei Gao
 
-*Journal / Conference Name, Year*
+*Expert Systems with Applications, 2026*
 
-[Github](https://github.com)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Venue 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Micro. Journal</div><img src='images/survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Paper Title Four: Placeholder for your fourth publication](https://github.com)
+[A survey on semiconductor wafer yield prediction by artificial intelligence](https://www.sciencedirect.com/science/article/pii/S1879239125004084)
 
-**Fangke Chen**, Co-author A, Co-author B
+Dongyan Zhao, Yining Chen, Pang Guo, **Fangke Chen**, Ruyue Jing, Xin Xu, Yanning Chen, Fang Liu, Bo Wu
 
-*Journal / Conference Name, Year*
+*Microelectronics Journal, 2025*
 
-[Github](https://github.com)
 </div>
 </div>
 
@@ -85,9 +82,9 @@ My research interests include Time Series Analysis, Time Series Foundation Model
 
 [KARMAD: KAN-Based Adversarial Robust Model for Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/11113132)
 
-[Independence First] **Fangke Chen**, Xiaotian Qiu, Yihan Ye, et al. ICDE 2025
+**Fangke Chen**, Xiaotian Qiu, Yihan Ye, Ruyue Jing, Yining Chen, Dawei Gao
 
-*ICDE 2025*
+*ICDE, 2025*
 
 </div>
 </div>
