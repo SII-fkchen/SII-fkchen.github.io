@@ -17,42 +17,96 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hello! This is Fangke Chen. I am currently pursuing my Ph.D. at Zhejiang University and the Shanghai Innovation Institute, where I am fortunate to be advised by Prof. [Zhongyu Wei](https://scholar.google.com/citations?user=AjLDxxgAAAAJ&hl=en&oi=ao), Researcher [YiNing Chen](https://person.zju.edu.cn/en/yiningchen) and Researcher [Yishu Zhang](https://scholar.google.com/citations?user=YBF2CF8AAAAJ&hl=en&oi=ao). What's more, I am a member of the Fudan Data Intelligence and Social Computing (Fudan DISC) lab. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include Time Series Analysis, Time Series Foundation Model, and Artificial Intelligence for Edge Devices. I have been working to increase the likelihood of deploying artificial intelligence algorithms on mobile devices.
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.03*: &nbsp;🎉🎉 Our work has been accepted by ICDE 2025.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Venue 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Paper Title One: Placeholder for your first publication](https://github.com)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Fangke Chen**, Co-author A, Co-author B
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*Journal / Conference Name, Year*
+
+[Github](https://github.com)
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Venue 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Paper Title Two: Placeholder for your second publication](https://github.com)
+
+**Fangke Chen**, Co-author A, Co-author B
+
+*Journal / Conference Name, Year*
+
+[Github](https://github.com)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Venue 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Paper Title Three: Placeholder for your third publication](https://github.com)
+
+**Fangke Chen**, Co-author A, Co-author B
+
+*Journal / Conference Name, Year*
+
+[Github](https://github.com)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Venue 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Paper Title Four: Placeholder for your fourth publication](https://github.com)
+
+**Fangke Chen**, Co-author A, Co-author B
+
+*Journal / Conference Name, Year*
+
+[Github](https://github.com)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2025</div><img src='images/Karmad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[KARMAD: KAN-Based Adversarial Robust Model for Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/11113132)
+
+[Independence First] **Fangke Chen**, Xiaotian Qiu, Yihan Ye, et al. ICDE 2025
+
+*ICDE 2025*
+
+</div>
+</div>
+
+
+# 💬 Academic Service
+- Reviewer of ACL ARR 2026 May
+- Reviewer of ICIC 2026
+- Reviewer of IJCNN 2026
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Award of Honor for Graduate, 2024-2025, Zhejiang University
+- Zhejiang University-SMIC Scholarship, 2024-2025, Zhejiang University
+- Chairman of Graduate Student Association, 2024-2025, College of Integrated Circuits, Zhejiang University
+- Third Prize, 2024 China Postgraduate Innovation and Entrepreneurship Competition - EDA Elite Challenge
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.09 - present*, Ph.D. Candidate in Electronic Information, Zhejiang University, Hangzhou, China.
+- *2020.09 - 2024.06*, Bachelor of Communications Engineering, China University of Geosciences (Wuhan), Wuhan, China. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.08 - 2025.08*, Industrial Data Analyst, [Zhejiang ICsprout](https://www.icsprout.com/), Hangzhou, China.
