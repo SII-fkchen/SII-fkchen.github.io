@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Fangke Chen"
-description              : "A Ph.D. candidate at Zhejiang University and Shanghai Innovation Institute."
+description              : "My research focuses on Time Series Analysis and Time Series Foundation Model."
 repository               : "SII-fkchen/SII-fkchen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Fangke Chen"
   avatar           : "images/doggg.jpg"
-  bio              : "A Ph.D. candidate at Zhejiang University and Shanghai Innovation Institute"
+  bio              : "A Ph.D. candidate at Zhejiang University and Shanghai Innovation Institute."
   location         : "Shanghai, China"
   employer         :
   pubmed           :
