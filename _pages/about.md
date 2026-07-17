@@ -28,7 +28,7 @@ My research interests include Time Series Analysis, Time Series Foundation Model
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-Print</div><img src='images/medrcube.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-Print</div><img src='images/mdercube.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MedRCube: A Multidimensional Framework for Fine-Grained and In-Depth Evaluation of MLLMs in Medical Imaging](https://arxiv.org/abs/2604.13756)
