@@ -33,7 +33,7 @@ My research interests include Time Series Analysis, Time Series Foundation Model
 
 [MedRCube: A Multidimensional Framework for Fine-Grained and In-Depth Evaluation of MLLMs in Medical Imaging](https://arxiv.org/abs/2604.13756)
 
-Zhijie Bao<sup>*</sup>, **Fangke Chen**<sup>*</sup>, Licheng Bao, Chenhui Zhang, Wei Chen, Jiajie Peng, Zhongyu Wei
+Zhijie Bao<sup>†</sup>, **Fangke Chen**<sup>†</sup>, Licheng Bao, Chenhui Zhang, Wei Chen, Jiajie Peng, Zhongyu Wei
 
 *Pre-Print, 2026*
 
