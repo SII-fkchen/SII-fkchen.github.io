@@ -19,7 +19,7 @@ redirect_from:
 
 Hello! This is Fangke Chen. I am currently pursuing my Ph.D. at Zhejiang University and the Shanghai Innovation Institute, where I am fortunate to be advised by Prof. [Zhongyu Wei](https://scholar.google.com/citations?user=AjLDxxgAAAAJ&hl=en&oi=ao), Researcher [YiNing Chen](https://person.zju.edu.cn/en/yiningchen) and Researcher [Yishu Zhang](https://scholar.google.com/citations?user=YBF2CF8AAAAJ&hl=en&oi=ao). What's more, I am a member of the Fudan Data Intelligence and Social Computing (Fudan DISC) lab. 
 
-My research interests include Time Series Analysis, Time Series Foundation Model, and Artificial Intelligence for Edge Devices. I have been working to increase the likelihood of deploying artificial intelligence algorithms on mobile devices.
+My research interests include Time Series Analysis, Time Series Foundation Model, and Artificial Intelligence for Edge Devices.
 
 
 
