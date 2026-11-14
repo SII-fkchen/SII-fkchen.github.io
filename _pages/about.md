@@ -24,20 +24,48 @@ My research interests include Time Series Analysis, Time Series Foundation Model
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 Our work has been accepted by ICDE 2025.
+- *2026.11*: &nbsp;🎉🎉 Our work has been accepted by SIGKDD 2027 AI4S Track.
+- *2026.11*: &nbsp;🎉🎉 Our work has been accepted by SIGKDD 2027 D&B Track.
+- *2025.03*: &nbsp;🎉🎉 Our work has been accepted by ICDE 2025 Research Second Round.
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-Print</div><img src='images/mdercube.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2027 AI4S Track</div><img src='images/main_clinverse.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ClinVerse: A Realistic Multi-Agent Diagnostic Environment for Training and Evaluating Medical Agents](https://arxiv.org/pdf/2610.34878)
+
+Sirry Chen, **Fangke Chen**, Xuanwen Ding, Wei Chen, Zhongyu Wei
+
+*SIGKDD AI4S Track, 2027*
+
+[Github](https://github.com/SirryChen/ClinVerse); [Demo](https://sirrychen.github.io/blogs/ClinVerse/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-Print</div><img src='images/soter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SOTER: A Generative Time-Series Foundation Model for Wearable Human Physiological Signals](https://arxiv.org/pdf/2609.16804)
+
+**Fangke Chen**, Sirry Chen, Wei Chen, Zhongyu Wei
+
+*Pre-Print, 2026*
+
+[Github](https://github.com/SII-fkchen/SOTER); [Huggingface](https://huggingface.co/datasets/Flmc/MedRCube)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2027 D&B Track</div><img src='images/mdercube.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MedRCube: A Multidimensional Framework for Fine-Grained and In-Depth Evaluation of MLLMs in Medical Imaging](https://arxiv.org/abs/2604.13756)
 
 Zhijie Bao<sup>†</sup>, **Fangke Chen**<sup>†</sup>, Licheng Bao, Chenhui Zhang, Wei Chen, Jiajie Peng, Zhongyu Wei
 
-*Pre-Print, 2026*
+*SIGKDD D&B Track, 2027*
 
-[Github](https://github.com/F1mc/MedRCube); [Huggingface](https://huggingface.co/datasets/Flmc/MedRCube)
+[Github](https://github.com/F1mc/MedRCube); [Huggingface](https://huggingface.co/SII-fkchen/SOTER)
 </div>
 </div>
 
@@ -50,6 +78,7 @@ Zhijie Bao<sup>†</sup>, **Fangke Chen**<sup>†</sup>, Licheng Bao, Chenhui Zh
 
 *Pre-Print, 2026*
 
+[Github](https://github.com/SII-fkchen/Lightweight_Semantic_Anchoring)
 </div>
 </div>
 
@@ -77,14 +106,14 @@ Dongyan Zhao, Yining Chen, Pang Guo, **Fangke Chen**, Ruyue Jing, Xin Xu, Yannin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2025</div><img src='images/Karmad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2025 Research Track</div><img src='images/Karmad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [KARMAD: KAN-Based Adversarial Robust Model for Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/11113132)
 
 **Fangke Chen**, Xiaotian Qiu, Yihan Ye, Ruyue Jing, Yining Chen, Dawei Gao
 
-*ICDE, 2025*
+*ICDE Research Track, 2025*
 
 </div>
 </div>
